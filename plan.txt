@@ -1,0 +1,4 @@
+first create registration module,
+-register student
+-view student registered
+-databases of this.
